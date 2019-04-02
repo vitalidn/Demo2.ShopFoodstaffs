@@ -34,7 +34,7 @@ When carrying out the project, the principles were taken into account:
 2. Create a new directory for your application.
 3. Create web application in Visual Studio 2017 using Entity Framework Core.
 4. Create a Dockerfile within your WebApp directory and add the following content:
-
+		
 		FROM microsoft/dotnet:2.2-aspnetcore-runtime AS base
 		WORKDIR /app
 		EXPOSE 80
@@ -143,11 +143,11 @@ For security reasons, the example does not indicate the real login and password,
 
 8. Run PowerShell as Administrator in the project root folder and execute next commands:
 
-        	docker-compose up --build -d
+        		docker-compose up --build -d
 
 9. Go to your browser and type:
 
-        	localhost
+        		localhost
 			 
 You will see the welcome page.
 ![image](https://github.com/vitalidn/Demo2/blob/master/PrintScreen1.jpg)
