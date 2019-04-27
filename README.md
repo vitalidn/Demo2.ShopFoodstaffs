@@ -156,6 +156,3 @@ Then follow the link to the page with Foodstuffs.
 ![image](https://github.com/vitalidn/Demo2/blob/master/PrintScreen2.jpg)
 
 ## It's all!!! Good luck!
-
-
-*When creating, do not forget to use the correct EOL convention. :)
