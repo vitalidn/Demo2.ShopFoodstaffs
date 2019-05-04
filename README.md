@@ -14,7 +14,7 @@ When carrying out the project, the principles were taken into account:
 
 ## Environment diagram
 
-![image](https://github.com/vitalidn/Demo2/blob/master/ENVIRONMENT%20DIAGRAM.jpg)
+![image](https://github.com/vitalidn/Demo2.ShopFoodstaffs/blob/master/images/01.jpg)
 
 ## Technology stack
 ### For realise the main task has chosen next Tools
@@ -150,9 +150,9 @@ For security reasons, the example does not indicate the real login and password,
         		localhost
 			 
 You will see the welcome page.
-![image](https://github.com/vitalidn/Demo2/blob/master/PrintScreen1.jpg)
+![image](https://github.com/vitalidn/Demo2.ShopFoodstaffs/blob/master/images/02.jpg)
     
 Then follow the link to the page with Foodstuffs.
-![image](https://github.com/vitalidn/Demo2/blob/master/PrintScreen2.jpg)
+![image](https://github.com/vitalidn/Demo2.ShopFoodstaffs/blob/master/images/03.jpg)
 
 ## It's all!!! Good luck!
